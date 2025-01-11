@@ -16,6 +16,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Set Correct Permissions for Dist Folder
+        run: |
+          if [ -d dist ]; then
+            chmod -R u+w dist
+          fi
+
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
