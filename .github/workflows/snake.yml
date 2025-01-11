@@ -10,7 +10,7 @@ on:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # Use a specific Ubuntu version for stability
     timeout-minutes: 10
     steps:
       - name: Checkout Repository
@@ -32,13 +32,6 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Create Output Branch If Not Exists
-        run: |
-          git fetch origin output || git checkout --orphan output
-          git reset --hard
-          git clean -fd
-          git branch --set-upstream-to=origin/output
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
