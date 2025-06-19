@@ -16,7 +16,8 @@
 
 ## 🏆 Professional Certifications
 
-![eWPTXv2](https://img.shields.io/badge/eWPTXv2-%23181717.svg?style=for-the-badge&logoColor=white) ![eCPPTv2](https://img.shields.io/badge/eCPPTv2-%23181717.svg?style=for-the-badge&logoColor=white) ![eWPTv2](https://img.shields.io/badge/eWPTv2-%23181717.svg?style=for-the-badge&logoColor=white) ![eJPTv2](https://img.shields.io/badge/eJPTv2-%23181717.svg?style=for-the-badge&logoColor=white) ![CAP](https://img.shields.io/badge/CAP-%23181717.svg?style=for-the-badge&logoColor=white) ![CHFI](https://img.shields.io/badge/CHFI-%23181717.svg?style=for-the-badge&logoColor=white) ![CC (ISC)²](https://img.shields.io/badge/CC%20(ISC)²-%23181717.svg?style=for-the-badge&logoColor=white) 
+![OSCP+](https://img.shields.io/badge/OSCP%2B-%23181717.svg?style=for-the-badge&logoColor=white)![OSCP](https://img.shields.io/badge/OSCP-%23181717.svg?style=for-the-badge&logoColor=white) ![eWPTXv2](https://img.shields.io/badge/eWPTXv2-%23181717.svg?style=for-the-badge&logoColor=white) ![eCPPTv2](https://img.shields.io/badge/eCPPTv2-%23181717.svg?style=for-the-badge&logoColor=white) ![eWPTv2](https://img.shields.io/badge/eWPTv2-%23181717.svg?style=for-the-badge&logoColor=white) ![eJPTv2](https://img.shields.io/badge/eJPTv2-%23181717.svg?style=for-the-badge&logoColor=white)![Dante Pro Lab](https://img.shields.io/badge/Dante%20Pro%20Lab-%23181717.svg?style=for-the-badge&logoColor=white)![CAP](https://img.shields.io/badge/CAP-%23181717.svg?style=for-the-badge&logoColor=white) ![CHFI](https://img.shields.io/badge/CHFI-%23181717.svg?style=for-the-badge&logoColor=white) ![CC (ISC)²](https://img.shields.io/badge/CC%20(ISC)²-%23181717.svg?style=for-the-badge&logoColor=white)
+
 
 ![Udacity](https://img.shields.io/badge/Udacity-Security_Analyst_Nanodegree-%23181717?style=for-the-badge&logoColor=white) 
 ![Oracle OCI](https://img.shields.io/badge/Oracle-OCI_Foundations_Associate-%23181717?style=for-the-badge&logoColor=white) 
