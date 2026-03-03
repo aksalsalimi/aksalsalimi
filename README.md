@@ -101,26 +101,25 @@ My work focuses on uncovering high-impact vulnerabilities, breaking complex syst
 
 ---
 
-# 📊 GitHub Analytics
-
-<img width="44%" align="right" src="https://i.imgur.com/1ToWEWw.png"/>
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=aksalsalimi&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)]()
-[![Streak](https://streak-stats.demolab.com?user=aksalsalimi&theme=dark&bg_color=00000000&hide_border=true)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksalsalimi&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)]()
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aksalsalimi&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aksalsalimi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aksalsalimi&theme=radical&hide_border=true&show_icons=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aksalsalimi&theme=radical&hide_border=true" height="170" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=aksalsalimi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+---
 
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=aksalsalimi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=aksalsalimi&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
+</p>
 
 ---
 
