@@ -108,9 +108,15 @@ My work focuses on uncovering high-impact vulnerabilities, breaking complex syst
 
 ---
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aksalsalimi&theme=radical&hide_border=true&show_icons=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aksalsalimi&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aksalsalimi&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+  
+  <img src="https://streak-stats.demolab.com?user=aksalsalimi&theme=radical&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksalsalimi&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
