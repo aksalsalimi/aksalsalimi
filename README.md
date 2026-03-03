@@ -12,11 +12,14 @@
 
 <img width="28%" align="right" src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
-# Hi there 👋
+<h2 align="left">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
 
 I’m **[`Ahmed Alsalimi`](https://www.linkedin.com/in/aksalsalimi/)**, a Red Team Operator and Penetration Tester specializing in:
 
-  •	Advanced Red Teaming & Adversary Simulation
+  	•	Advanced Red Teaming & Adversary Simulation
 	•	Web & API Penetration Testing
 	•	DevSecOps and Application Security
 	•	Mobile Penetration Testing 
@@ -27,11 +30,9 @@ I’m **[`Ahmed Alsalimi`](https://www.linkedin.com/in/aksalsalimi/)**, a Red Te
 
 My work focuses on uncovering high-impact vulnerabilities, breaking complex systems, and strengthening cyber resilience across enterprise environments.
 
----
 
-# 📌 About Me (Click to Expand)
 <details>
-  <summary>More about my background</summary>
+  <summary>More about me</summary>
 
 - **From**: Saudi Arabia 🇸🇦  
 - **Role**: Penetration Tester • Red Team Operator  
@@ -65,6 +66,8 @@ My work focuses on uncovering high-impact vulnerabilities, breaking complex syst
 ![UX](https://img.shields.io/badge/UX_Design-%23181717.svg?style=for-the-badge)
 
 ---
+<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+
 <h1>✒️ Recent Posts </h1>
 <ul>
 <li><a target="_blank" href="https://medium.com/@aksalsalimi/cve-2024-41226-response-manipulation-led-to-csv-injection-9ae3182dcc02">CVE-2024–41226: Response manipulation led to CSV Injection</a></li>
@@ -109,7 +112,6 @@ My work focuses on uncovering high-impact vulnerabilities, breaking complex syst
 ## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=aksalsalimi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ---
 
