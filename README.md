@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<img width="28%" align="right" src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
+<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
 <h2 align="left">
   Hi there
@@ -19,14 +19,14 @@
 
 I’m **[`Ahmed Alsalimi`](https://www.linkedin.com/in/aksalsalimi/)**, a Red Team Operator and Penetration Tester specializing in:
 
-  	•	Advanced Red Teaming & Adversary Simulation
-	•	Web & API Penetration Testing
-	•	DevSecOps and Application Security
-	•	Mobile Penetration Testing 
-	•	Enterprise Vulnerability Management
-	•	Detection Evasion & Post-Exploitation
-	•	Purple Teaming & Threat-Informed Defense
-	•	Active Directory & Network Penetration Testing
+- Advanced Red Teaming & Adversary Simulation  
+- Web & API Penetration Testing  
+- DevSecOps and Application Security  
+- Mobile Penetration Testing  
+- Enterprise Vulnerability Management  
+- Detection Evasion & Post-Exploitation  
+- Purple Teaming & Threat-Informed Defense  
+- Active Directory & Network Penetration Testing  
 
 My work focuses on uncovering high-impact vulnerabilities, breaking complex systems, and strengthening cyber resilience across enterprise environments.
 
@@ -66,7 +66,6 @@ My work focuses on uncovering high-impact vulnerabilities, breaking complex syst
 ![UX](https://img.shields.io/badge/UX_Design-%23181717.svg?style=for-the-badge)
 
 ---
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
 <h1>✒️ Recent Posts </h1>
 <ul>
@@ -99,6 +98,16 @@ My work focuses on uncovering high-impact vulnerabilities, breaking complex syst
 ### DevSecOps 
 
 ![Fortify SSC](https://img.shields.io/badge/fortify%20ssc-%23007A9C.svg?style=for-the-badge&logo=fortinet&logoColor=white) ![Nexus IQ](https://img.shields.io/badge/nexus%20iq-%23000000.svg?style=for-the-badge&logo=sonatype&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+
+---
+
+# 📊 GitHub Analytics
+
+<img width="44%" align="right" src="https://i.imgur.com/1ToWEWw.png"/>
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=aksalsalimi&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)]()
+[![Streak](https://streak-stats.demolab.com?user=aksalsalimi&theme=dark&bg_color=00000000&hide_border=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksalsalimi&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true)]()
 
 ---
 
