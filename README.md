@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
@@ -52,17 +54,15 @@ My work focuses on uncovering high-impact vulnerabilities, breaking complex syst
 ![OSCP](https://img.shields.io/badge/OSCP-%23181717.svg?style=for-the-badge)
 ![OSWP](https://img.shields.io/badge/OSWP-%23181717.svg?style=for-the-badge)
 ![CRTE](https://img.shields.io/badge/CRTE-%23181717.svg?style=for-the-badge)
+![GNFA](https://img.shields.io/badge/GNFA-%23181717.svg?style=for-the-badge)
+![CCEP](https://img.shields.io/badge/CCEP-%23181717.svg?style=for-the-badge)
 ![eWPTXv2](https://img.shields.io/badge/eWPTXv2-%23181717.svg?style=for-the-badge)
 ![eCPPTv2](https://img.shields.io/badge/eCPPTv2-%23181717.svg?style=for-the-badge)
-![GNFA](https://img.shields.io/badge/GNFA-%23181717.svg?style=for-the-badge)
 ![CAP](https://img.shields.io/badge/CAP-%23181717.svg?style=for-the-badge)
-![CCEP](https://img.shields.io/badge/CCEP-%23181717.svg?style=for-the-badge)
 ![CHFI](https://img.shields.io/badge/CHFI-%23181717.svg?style=for-the-badge)
 ![CC](https://img.shields.io/badge/CC-%23181717.svg?style=for-the-badge)
-![arcX](https://img.shields.io/badge/Threat_Intelligence_arcX-%23181717.svg?style=for-the-badge)
 ![OCI](https://img.shields.io/badge/Oracle_OCI_Foundations-%23181717.svg?style=for-the-badge)
 ![AZ900](https://img.shields.io/badge/AZ--900-%23181717.svg?style=for-the-badge)
-![SFPC](https://img.shields.io/badge/SFPC-%23181717.svg?style=for-the-badge)
 ![UX](https://img.shields.io/badge/UX_Design-%23181717.svg?style=for-the-badge)
 
 ---
@@ -103,7 +103,7 @@ My work focuses on uncovering high-impact vulnerabilities, breaking complex syst
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aksalsalimi&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aksalsalimi&no-frame=true&theme=onedark" />
 </p>
 
 ---
