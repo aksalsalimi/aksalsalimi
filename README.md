@@ -67,10 +67,35 @@ My work focuses on uncovering high-impact vulnerabilities, breaking complex syst
 
 ---
 
-<h1>✒️ Recent Posts </h1>
+<h1>✒️ Recent Posts</h1>
 <ul>
-<li><a target="_blank" href="https://medium.com/@aksalsalimi/cve-2024-41226-response-manipulation-led-to-csv-injection-9ae3182dcc02">CVE-2024–41226: Response manipulation led to CSV Injection</a></li>
-  
+
+<li>
+<a target="_blank" href="https://github.com/aksalsalimi/CVE-2026-26416">
+CVE-2026-26416: Authorization Bypass Leading to Privilege Escalation in Cognix Recon Client
+</a>
+</li>
+
+<li>
+<a target="_blank" href="https://github.com/aksalsalimi/CVE-2026-26417">
+CVE-2026-26417: Broken Access Control in Password Reset Functionality in Cognix Recon Client
+</a>
+</li>
+
+<li>
+<a target="_blank" href="https://github.com/aksalsalimi/CVE-2026-26418">
+CVE-2026-26418: Missing Authentication and Authorization in Web API in Cognix Recon Client
+</a>
+</li>
+
+<li>
+<a target="_blank" href="https://medium.com/@aksalsalimi/cve-2024-41226-response-manipulation-led-to-csv-injection-9ae3182dcc02">
+CVE-2024-41226: Response Manipulation Led to CSV Injection
+</a>
+</li>
+
+</ul>
+
 ---
 
 ## 💻 Programming Languages and Technologies Stack
@@ -109,9 +134,8 @@ My work focuses on uncovering high-impact vulnerabilities, breaking complex syst
 ---
 
 ## 🔝 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=aksalsalimi&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
-</p>
+
+![](https://github-contributor-stats.vercel.app/api?username=aksalsalimi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
