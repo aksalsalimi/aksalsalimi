@@ -133,13 +133,6 @@ CVE-2024-41226: Response Manipulation Led to CSV Injection
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=aksalsalimi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
